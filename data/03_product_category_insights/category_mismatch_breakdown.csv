@@ -1,0 +1,129 @@
+report_category_id,report_category,product_category_id,product_category,mismatch_records
+44,"Makeup Products (non-permanent)",59,"Nail Products",2513
+44,"Makeup Products (non-permanent)",90,"Skin Care Products",2277
+59,"Nail Products",44,"Makeup Products (non-permanent)",2202
+90,"Skin Care Products",44,"Makeup Products (non-permanent)",1968
+106,"Sun-Related Products",44,"Makeup Products (non-permanent)",1666
+44,"Makeup Products (non-permanent)",106,"Sun-Related Products",1432
+6,"Bath Products",44,"Makeup Products (non-permanent)",818
+44,"Makeup Products (non-permanent)",6,"Bath Products",708
+32,"Hair Coloring Products",44,"Makeup Products (non-permanent)",540
+59,"Nail Products",90,"Skin Care Products",481
+18,"Hair Care Products (non-coloring)",44,"Makeup Products (non-permanent)",468
+44,"Makeup Products (non-permanent)",111,"Tattoos and Permanent Makeup",439
+44,"Makeup Products (non-permanent)",18,"Hair Care Products (non-coloring)",389
+106,"Sun-Related Products",90,"Skin Care Products",352
+90,"Skin Care Products",59,"Nail Products",349
+6,"Bath Products",90,"Skin Care Products",326
+90,"Skin Care Products",6,"Bath Products",304
+44,"Makeup Products (non-permanent)",32,"Hair Coloring Products",300
+90,"Skin Care Products",106,"Sun-Related Products",264
+111,"Tattoos and Permanent Makeup",44,"Makeup Products (non-permanent)",250
+44,"Makeup Products (non-permanent)",74,"Personal Care Products",240
+12,Fragrances,44,"Makeup Products (non-permanent)",181
+59,"Nail Products",6,"Bath Products",173
+18,"Hair Care Products (non-coloring)",90,"Skin Care Products",170
+6,"Bath Products",59,"Nail Products",134
+106,"Sun-Related Products",59,"Nail Products",124
+68,"Oral Hygiene Products",44,"Makeup Products (non-permanent)",123
+74,"Personal Care Products",44,"Makeup Products (non-permanent)",120
+90,"Skin Care Products",18,"Hair Care Products (non-coloring)",112
+44,"Makeup Products (non-permanent)",12,Fragrances,107
+32,"Hair Coloring Products",90,"Skin Care Products",91
+59,"Nail Products",106,"Sun-Related Products",84
+82,"Shaving Products",44,"Makeup Products (non-permanent)",74
+106,"Sun-Related Products",6,"Bath Products",67
+6,"Bath Products",18,"Hair Care Products (non-coloring)",67
+18,"Hair Care Products (non-coloring)",59,"Nail Products",66
+90,"Skin Care Products",74,"Personal Care Products",66
+74,"Personal Care Products",6,"Bath Products",63
+12,Fragrances,90,"Skin Care Products",62
+6,"Bath Products",111,"Tattoos and Permanent Makeup",62
+90,"Skin Care Products",32,"Hair Coloring Products",59
+74,"Personal Care Products",90,"Skin Care Products",59
+90,"Skin Care Products",111,"Tattoos and Permanent Makeup",59
+68,"Oral Hygiene Products",111,"Tattoos and Permanent Makeup",59
+32,"Hair Coloring Products",106,"Sun-Related Products",54
+18,"Hair Care Products (non-coloring)",6,"Bath Products",53
+44,"Makeup Products (non-permanent)",68,"Oral Hygiene Products",42
+12,Fragrances,6,"Bath Products",41
+18,"Hair Care Products (non-coloring)",32,"Hair Coloring Products",40
+6,"Bath Products",74,"Personal Care Products",40
+59,"Nail Products",32,"Hair Coloring Products",36
+6,"Bath Products",32,"Hair Coloring Products",36
+74,"Personal Care Products",59,"Nail Products",36
+44,"Makeup Products (non-permanent)",82,"Shaving Products",36
+18,"Hair Care Products (non-coloring)",106,"Sun-Related Products",36
+32,"Hair Coloring Products",59,"Nail Products",33
+59,"Nail Products",74,"Personal Care Products",33
+6,"Bath Products",106,"Sun-Related Products",33
+32,"Hair Coloring Products",12,Fragrances,32
+32,"Hair Coloring Products",18,"Hair Care Products (non-coloring)",32
+59,"Nail Products",111,"Tattoos and Permanent Makeup",32
+68,"Oral Hygiene Products",18,"Hair Care Products (non-coloring)",31
+74,"Personal Care Products",18,"Hair Care Products (non-coloring)",30
+12,Fragrances,111,"Tattoos and Permanent Makeup",30
+106,"Sun-Related Products",32,"Hair Coloring Products",29
+32,"Hair Coloring Products",74,"Personal Care Products",28
+90,"Skin Care Products",12,Fragrances,27
+106,"Sun-Related Products",18,"Hair Care Products (non-coloring)",26
+32,"Hair Coloring Products",6,"Bath Products",24
+6,"Bath Products",12,Fragrances,24
+68,"Oral Hygiene Products",59,"Nail Products",24
+82,"Shaving Products",90,"Skin Care Products",21
+18,"Hair Care Products (non-coloring)",74,"Personal Care Products",20
+12,Fragrances,59,"Nail Products",19
+90,"Skin Care Products",68,"Oral Hygiene Products",18
+1,"Baby Products",44,"Makeup Products (non-permanent)",17
+59,"Nail Products",12,Fragrances,16
+68,"Oral Hygiene Products",90,"Skin Care Products",14
+18,"Hair Care Products (non-coloring)",111,"Tattoos and Permanent Makeup",13
+59,"Nail Products",18,"Hair Care Products (non-coloring)",12
+74,"Personal Care Products",32,"Hair Coloring Products",12
+106,"Sun-Related Products",68,"Oral Hygiene Products",11
+1,"Baby Products",90,"Skin Care Products",10
+74,"Personal Care Products",106,"Sun-Related Products",10
+82,"Shaving Products",6,"Bath Products",9
+111,"Tattoos and Permanent Makeup",59,"Nail Products",9
+59,"Nail Products",68,"Oral Hygiene Products",9
+32,"Hair Coloring Products",68,"Oral Hygiene Products",9
+12,Fragrances,106,"Sun-Related Products",9
+90,"Skin Care Products",82,"Shaving Products",8
+68,"Oral Hygiene Products",106,"Sun-Related Products",8
+68,"Oral Hygiene Products",6,"Bath Products",7
+82,"Shaving Products",59,"Nail Products",7
+12,Fragrances,74,"Personal Care Products",7
+106,"Sun-Related Products",74,"Personal Care Products",7
+106,"Sun-Related Products",82,"Shaving Products",7
+18,"Hair Care Products (non-coloring)",12,Fragrances,6
+106,"Sun-Related Products",12,Fragrances,6
+32,"Hair Coloring Products",82,"Shaving Products",6
+82,"Shaving Products",106,"Sun-Related Products",6
+82,"Shaving Products",32,"Hair Coloring Products",5
+68,"Oral Hygiene Products",32,"Hair Coloring Products",5
+12,Fragrances,32,"Hair Coloring Products",5
+111,"Tattoos and Permanent Makeup",90,"Skin Care Products",5
+74,"Personal Care Products",111,"Tattoos and Permanent Makeup",5
+1,"Baby Products",18,"Hair Care Products (non-coloring)",4
+6,"Bath Products",68,"Oral Hygiene Products",4
+111,"Tattoos and Permanent Makeup",106,"Sun-Related Products",4
+111,"Tattoos and Permanent Makeup",6,"Bath Products",3
+18,"Hair Care Products (non-coloring)",68,"Oral Hygiene Products",3
+68,"Oral Hygiene Products",74,"Personal Care Products",3
+68,"Oral Hygiene Products",82,"Shaving Products",3
+59,"Nail Products",82,"Shaving Products",3
+1,"Baby Products",6,"Bath Products",2
+74,"Personal Care Products",12,Fragrances,2
+68,"Oral Hygiene Products",12,Fragrances,2
+111,"Tattoos and Permanent Makeup",18,"Hair Care Products (non-coloring)",2
+82,"Shaving Products",18,"Hair Care Products (non-coloring)",2
+12,Fragrances,18,"Hair Care Products (non-coloring)",2
+82,"Shaving Products",68,"Oral Hygiene Products",2
+111,"Tattoos and Permanent Makeup",74,"Personal Care Products",2
+18,"Hair Care Products (non-coloring)",82,"Shaving Products",2
+6,"Bath Products",82,"Shaving Products",2
+1,"Baby Products",106,"Sun-Related Products",2
+82,"Shaving Products",12,Fragrances,1
+111,"Tattoos and Permanent Makeup",32,"Hair Coloring Products",1
+12,Fragrances,68,"Oral Hygiene Products",1
+106,"Sun-Related Products",111,"Tattoos and Permanent Makeup",1
