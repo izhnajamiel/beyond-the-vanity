@@ -1,0 +1,21 @@
+table_name,purpose,row_count,column_count
+dim_products.csv,"One row per CDPHId product, with company, brand, category, subcategory, and CSF references.",36972,8
+dim_companies.csv,Distinct company identifiers and names.,635,2
+dim_brands.csv,Distinct brand/company combinations with generated brand_id.,2714,3
+dim_primary_categories.csv,Distinct primary product categories.,13,2
+dim_subcategories.csv,Distinct subcategories linked to primary category IDs.,92,3
+dim_chemicals.csv,Distinct normalized chemical names with generated chemical_id.,123,2
+dim_cas_identifiers.csv,Distinct CAS identifier IDs and CAS numbers.,134,2
+dim_csf_descriptions.csv,Distinct CSF IDs and descriptions.,58167,2
+fact_chemical_reports.csv,"All 114,635 source rows, preserved as source_record_id with standardized date fields.",114635,19
+bridge_product_chemical.csv,Distinct product–chemical–CAS combinations.,42388,5
+dim_reporting_dates.csv,Calendar date dimension spanning the observed date range.,38108,8
+product_reporting_history.csv,Report-date and discontinuation/removal history for each source row.,114635,6
+discontinued_product_chemical_records.csv,Source records with a non-null discontinued date.,12920,5
+active_product_chemical_records.csv,"Source records with a null discontinued date; this reflects dataset status, not a complete safety verdict.",101715,10
+chemical_removal_events.csv,Source records with a non-null chemical removal date.,2985,6
+chemical_frequency_summary.csv,"Chemical-level counts of records, products, companies, and CAS numbers.",123,6
+brand_chemical_summary.csv,"Report counts, product counts, chemical counts, and discontinued record counts by brand.",2571,5
+company_chemical_summary.csv,"Report counts, product counts, chemical counts, and discontinued record counts by company.",635,6
+category_chemical_summary.csv,"Report counts, product counts, chemical counts, and discontinued record counts by primary category.",13,6
+yearly_reporting_summary.csv,Counts grouped by year of initial reporting; missing years remain a separate group.,12,5

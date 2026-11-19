@@ -1,0 +1,636 @@
+company_id,company_name,report_record_count,distinct_products,distinct_chemicals,discontinued_records
+67,L'Oreal USA,5747,1540,2,0
+198,S+,5165,1860,10,1
+171,Coty,5162,1984,18,86
+23,Revlon Consumer Product Corporation,4341,1079,2,114
+84,"Bare Escentuals Beauty, Inc.",3828,1279,6,72
+30,"NYX Los Angeles, Inc.",3225,1011,3,0
+86,The Procter & Gamble Company,2916,914,4,2618
+1154,Charlotte Tilbury Beauty Ltd,2770,1055,5,0
+224,Tarte Cosmetics,2497,763,7,0
+556,Victoria's Secret Beauty,2219,985,3,1176
+352,Nars Cosmetics,2189,798,4,191
+562,The Boots Company PLC,2135,787,6,561
+1035,Nail Alliance - Entity,2106,581,3,0
+372,American International Industries,1996,765,11,0
+546,"Beauty 21 Cosmetics, Inc.",1676,742,2,0
+328,Parfums Christian Dior,1641,314,7,11
+1231,MAKE UP FOR EVER,1626,625,3,0
+77,"Buth-na-Bodhaige, Inc",1565,559,6,550
+164,Palladio Beauty Group,1557,373,15,133
+22,CLARINS S.A.,1467,478,3,0
+1076,AMOREPACIFIC US INC.,1335,531,9,0
+435,Bath & Body Works,1302,503,2,563
+69,"Elizabeth Arden, Inc.",1269,516,10,743
+76,LI Pigments,1266,240,3,0
+1000,MAESA LLC,1202,443,8,643
+402,Caleel+Hayden,1197,256,8,0
+298,GUERLAIN,1137,317,10,471
+685,"Ventura International, Ltd",1107,463,13,2
+91,Merle Norman Cosmetics,1091,435,3,152
+373,LVMH FRAGRANCE BRANDS,1035,326,6,11
+1027,"Hand & Nail Harmony, Inc",962,484,3,0
+158,"Anastasia Beverly Hills, LLC",922,274,2,61
+290,Arbonne International LLC,903,271,4,270
+1218,ZOEVA GmbH,851,336,5,0
+1163,Memebox Corporation,842,226,6,9
+886,"Kendo Holdings, Inc.",821,317,9,0
+191,Benefit Cosmetics,817,385,5,28
+4,New Avon LLC,762,324,3,363
+1213,Too Faced Cosmetics,748,312,7,260
+347,"Xtreme Color, Inc.",729,283,1,0
+27,"CHANEL, INC",706,234,2,3
+1033,"Nail Alliance, LLC",699,274,3,0
+542,Cover FX Skin Care Inc.,651,278,3,351
+206,"Melaleuca, Inc.",623,177,4,177
+997,Lush Ltd,615,249,10,0
+24,"Markwins International, Markwins Beauty Products, Physicians Formula",585,196,5,5
+351,"Shiseido Co., Ltd.",567,166,2,206
+1159,MILANI COSMETICS,530,110,4,0
+887,"Demeter Fragrance Library, Inc.",498,116,3,0
+1341,"Oceana USA, Inc.",478,150,5,0
+1011,Shiseido Americas Corporation,475,232,1,0
+301,Yves Rocher Inc.,469,188,3,261
+292,Mary Kay Inc.,467,199,3,93
+1093,Arcadia Beauty Labs LLC,462,212,9,43
+1272,"VB Cosmetics, Inc.",452,104,2,0
+120,"Farouk Systems, Inc.",450,153,2,0
+1081,"La Prairie, Inc.",442,207,10,22
+404,MAKEUP ART COSMETICS,429,110,1,0
+1031,"KOS� America, Inc.",424,185,2,0
+192,"Physicians Formula Holdings, Inc.",419,91,1,21
+71,"Sunrider Manufacturing, L.P.",409,168,8,11
+1135,"Creative Nail Design, Inc.",402,224,1,0
+291,Stila Styles LLC,399,111,2,0
+361,"Kingdom Animalia, LLC.",380,89,3,21
+82,AMCO International,362,120,3,43
+628,"Ulta Salon, Cosmetics & Fragrance, Inc.",357,134,3,6
+184,"Conopco, Inc.",357,163,3,6
+288,Armand Dupree Inc.,352,58,2,0
+841,Philosophy,348,165,9,0
+144,C.F.E.B. SISLEY,348,137,4,13
+615,"Vi-Jon, Inc.",338,170,7,41
+159,The Procter & Gamble Company,330,105,1,236
+244,LABORATOIRES M&L SA (L'Occitane - Melvita),327,92,1,63
+1092,"Vi-Jon, Inc",326,114,7,0
+813,Alessandro International GmbH,325,123,2,0
+626,Lush Manufacturing Ltd.,324,93,6,8
+226,purminerals,322,88,8,1
+1149,MAVALA S.A.,308,124,6,0
+267,Kanebo Cosmetics Inc,298,142,2,173
+784,Soap and Glory Ltd,296,92,6,55
+954,Johnson & Johnson Consumer Companies,294,120,5,1
+1090,Milk Make-up,294,112,1,38
+197,"CLINIQUE LABORATORIES, LLC",286,130,2,0
+1036,The Procter & Gamble Company,282,147,1,2
+248,"NSE Products, Inc.",281,139,11,12
+943,Too Faced Cosmetics,281,115,2,0
+908,"Rituals Cosmetics USA, Inc.",272,192,13,9
+353,KORRES S.A - NATURAL PRODUCTS,271,123,2,0
+1049,Japonesque,271,107,3,31
+1305,Robanda International,258,95,7,0
+1051,Nudestix,257,139,1,0
+1142,"Centric Beauty, LLC",257,108,2,0
+557,Smashbox Cosmetics,255,131,4,1
+246,"Bonne Bell, LLC",254,124,2,34
+11,OPI PRODUCTS INC.,252,171,3,13
+1204,HUDA BEAUTY,244,212,2,0
+364,Fisk Industries Inc,236,156,18,0
+195,Estee Lauder Inc.,233,219,2,0
+609,AROMCA S.A,231,122,2,0
+598,Laboratoire Biosthetique Kosmetik GmbH & Co.,230,68,4,0
+221,PRESCRIPTIVES INC.,225,42,1,0
+128,"BeautiControl, Inc.",222,80,1,0
+1030,Artistic Nail Design - Nail Alliance LLC,220,54,2,0
+717,"Greenbrier International, Inc.",220,70,8,0
+127,"Shiseido America, Inc.",218,79,3,187
+297,"Ivy Enterprises, Inc.",215,138,2,0
+639,"Studio Gear Cosmetics, Inc.",215,97,1,0
+412,"Schwarzkopf, Inc.",206,62,1,0
+1377,"DND Daisy Nail Products, Inc.",196,130,3,0
+865,Colorescience,195,117,2,18
+157,Added Extras LLC,193,77,1,0
+96,"Zotos International, Inc.",192,74,5,83
+798,"Femme Couture International, Inc.",190,88,1,0
+201,"Hallmark Cards, Inc.",170,88,2,0
+1259,"Yanbal USA, Inc",169,44,2,0
+18,Bliss World LLC,168,102,11,0
+305,Burt's Bees Inc.,168,87,1,58
+1010,Kryolan Corporation,168,80,1,0
+1250,"NINGBO MEITELI COSMETICS CO.,LTD.",167,70,6,0
+240,GAP INC.,166,51,2,9
+1189,Cover FX Skincare Inc,162,63,2,0
+1332,Stila Style LLC.,160,22,3,0
+808,Atlas Development Limited,156,93,5,0
+747,Trish McEvoy Cosmetics Limited,153,90,1,0
+396,ORLY INTERNATIONAL,151,63,2,0
+629,Lumene Oy,151,72,4,3
+21,TIGI Linea Corp,150,109,3,124
+46,"McConnell Labs, Inc.",144,60,1,0
+983,"Hatchbeauty Products, LLC",141,33,1,4
+276,"Access Business Group International, LLC",139,81,1,0
+1029,Red Carpet Manicure,134,75,2,0
+864,"Nippon Menard Cosmetic Co., Ltd.",133,55,2,95
+931,Deborah Lippmann,131,75,4,0
+188,Aloette Cosmetics Inc.,128,68,6,0
+1103,Too Faced Cosmetics,128,67,1,0
+294,"Orlane, Inc",126,66,4,0
+403,"Bobbi Brown Professional Cosmetics, Inc.",126,64,1,0
+356,"Fashion Fair, LLC",125,50,2,0
+834,"Beauty Solutions, Ltd.",125,28,4,0
+165,Regis Corporation,125,22,21,86
+374,Beauty Selectives,124,101,1,0
+1279,Your Name Professional Brands,123,21,6,11
+1232,LEVLAD LLC,123,58,10,112
+173,DHC USA Inc.,121,54,5,6
+176,theBalm,119,7,3,0
+1245,Mirabella,113,70,5,0
+670,"TRUE COSMETICS, LLC",112,59,4,18
+1242,Too Faced Cosmetics,110,25,4,0
+245,COLGATE-PALMOLIVE COMPANY,109,70,5,41
+1241,Perricone MD,107,20,6,0
+1062,Paula's Choice LLC.,105,26,6,61
+977,Pacific World Cosmetics,105,53,4,1
+345,MAKE UP FOR EVER,97,31,2,19
+973,Henkel Corporation,95,59,3,16
+472,"Allure Labs, Inc.",91,38,6,4
+236,BeautyBank Inc.,90,33,1,0
+118,Added Extras LLC,87,72,3,3
+1257,"Rea.deeming Beauty, Inc.",84,10,2,0
+43,Dermalogica,83,52,5,44
+321,"BEAUTY SOCIETY, INC.",83,37,2,0
+175,Neways,81,16,2,36
+769,Fusion Brands Inc.,81,9,3,0
+189,Kao USA Inc.,81,55,2,13
+44,Thierry Mugler Parfums,80,52,2,0
+405,Aveda Corporation,79,53,1,0
+125,"NeoStrata Company, Inc.",78,56,6,0
+1198,"Edgewell Personal Care Brands, LLC",78,15,3,0
+587,"B�rlind of Germany, Inc.",74,19,2,0
+968,Space Brands Limited,73,2,1,0
+650,MOR Cosmetics International LLC,73,69,5,0
+1034,"NeoStrata Company, Inc., a Johnson & Johnson Company",72,21,5,0
+434,"The Hain Celestial Group, Inc",72,27,5,5
+570,"Fresh, Inc.",71,22,2,0
+343,Penhaligon's Limited,70,26,3,4
+397,Reckitt Benckiser,69,18,8,39
+59,"Young Nails, Inc.",67,26,3,0
+485,Olympic Mountain Products,66,34,2,59
+496,NV Perricone LLC,66,19,3,13
+722,Exclusive Fragrances & Cosmetics,64,28,5,0
+235,"Sun Pharmaceuticals, LLC",63,36,5,0
+1066,Black Up,61,25,2,0
+362,STENDHAL,61,25,1,0
+483,Hoyu America Co.,60,12,10,51
+249,Molton Brown Ltd,58,34,6,10
+1346,Oribe Hair Care LLC,58,25,4,0
+1267,Lornamead,56,1,1,0
+370,"Tammy Taylor Nails, Inc.",56,36,2,0
+285,"Great Clips, Inc.",55,9,1,43
+706,Puritan's Pride,54,16,8,4
+1356,"INTERPARFUMS USA, LLC",54,4,1,0
+1026,MDSolarSciences �,54,24,5,0
+333,"Bioelements, Inc.",52,8,8,4
+367,Australian Gold,51,35,3,2
+60,"Chattem, Inc.",50,29,7,15
+303,"Deb USA, Inc.",50,19,4,13
+1357,"StriVectin Operating Company, Inc.",50,35,5,0
+852,Natura Bisse International,48,14,5,0
+1311,Rainbow Cosmetics Manchester Ltd,48,24,2,0
+1179,"BioTouch, Inc.",46,9,2,0
+1161,Zelens,44,6,3,0
+110,"Alfalfa Nail Supply, Inc.",44,35,5,0
+1058,RMS Beauty,43,5,1,0
+200,LABORATOIRE NUXE,42,36,1,1
+177,"Kiss Products, Inc.",42,27,3,1
+338,J. Strickland & Co.,41,20,5,0
+976,"Crabtree & Evelyn, Ltd",40,29,1,3
+149,"Beiersdorf, Inc.",40,26,3,31
+1277,MANA Products Inc.,40,8,2,0
+576,Mario Zunino & C. S.r.l.,39,22,2,7
+365,"ZO Skin Health, Inc",39,20,5,10
+702,Blistex Inc.,38,3,3,2
+686,"salerm cosm�tica profesional,Inc.",38,17,2,0
+99,BR SAS,38,7,3,0
+1220,LG Household & Health Care America Inc.,38,13,1,0
+575,CERAS ESPECIALES MARTINEZ DE SAN VICENTE SA,38,4,1,0
+538,MIRAGE COSMETICS INC,38,1,2,0
+1215,Fresh Inc,37,27,2,0
+590,Sysco Guest Supply LLC.,37,14,2,0
+269,"Max Huber Research Labs, Inc.",37,35,1,0
+666,Chantecaille Beaut� Inc,36,2,1,1
+153,Georgia-Pacific Consumer Products LP,36,9,7,21
+753,Marianna Industries,35,14,4,7
+749,Design Plus Health & Beauty Ltd,35,27,2,0
+55,"Physician's Care Alliance, LLC",35,9,8,12
+266,Harmon Stores Inc.,34,12,9,0
+430,"Cos.brands, LLC",34,1,1,0
+591,"Skinn Cosmetics, LLC",34,20,2,0
+181,"GOJO Industries, Inc.",34,24,2,3
+710,"Vitamin World, Inc.",33,10,8,4
+1301,"Ultimate Face Cosmetics, INC",33,9,1,0
+510,Iredale Mineral Cosmetics,33,11,1,0
+130,Thymes LLC,31,8,1,8
+1244,The Lano Company,31,11,4,0
+284,"Murad Skin Research Laboratories, Inc.",31,17,2,1
+643,Aubrey Organics Inc,31,21,1,8
+174,John Paul Mitchell Systems,30,8,6,0
+335,CARITA INTERNATIONAL,30,7,2,4
+1046,Walt Disney Parks & Resorts,30,8,1,26
+241,PBIGROUP INC,30,19,5,1
+228,CosMedix,30,7,3,0
+1086,"Arcadia Beauty Labs, LLC",30,3,1,0
+1160,"Dr. Hauschka Skin Care, Inc.",30,9,3,5
+1008,Rodan + Fields,29,13,2,0
+1309,"PETLAB COSMETICS, LLC",29,1,4,0
+204,"Alberto Culver USA, Inc.",29,22,2,4
+1333,"SkinMedica, an Allergan Company",29,12,6,7
+543,Biocosm�tica Exel Argentina S.R.L.,28,15,2,0
+499,GERMAINE DE CAPUCCINI,28,12,3,0
+148,BEAUTE PRESTIGE INTERNATIONAL,28,17,3,23
+926,Orly International,27,2,2,0
+920,Alessandro International GmbH,27,8,1,0
+395,"Herbalife International of America, Inc.",27,18,4,18
+376,LVMH FRAGRANCE BRANDS - KENZO PARFUMS,27,8,3,0
+1148,American International Industries,26,20,6,0
+258,Aramis Inc.,26,14,1,0
+605,WORLD CLUB SUPPPLY CORP.,26,17,1,0
+1003,Alqvimia,26,9,1,0
+1379,"Zschimmer & Schwarz, Inc.",26,2,3,0
+1349,H&M GUTBERLET GMBH,26,7,3,0
+1210,Tatcha LLC,25,9,1,0
+380,"US CosmeceuTechs, LLC",25,19,2,0
+81,"MSD Consumer Care, Inc.",24,4,1,5
+624,LAUREN HUTTON'S GOOD STUFF LLC,24,7,1,0
+843,Fresh Inc.,24,4,1,0
+827,Walmart,24,19,3,0
+561,"Tom's of Maine, Inc.",24,8,2,1
+746,MULTALER & CIE S.A.,24,11,6,0
+432,"Freeze 24/7 International, LLC",24,2,1,0
+490,"CCA Industries, Inc.",24,14,1,7
+95,"S.C. Johnson & Son, Inc.",23,20,2,23
+354,Jemma Kidd Make Up Ltd,23,21,1,0
+1028,"APLICARE, INC",22,4,3,22
+655,Laboratoires Dr N.G. Payot,22,15,1,0
+1128,Chrome Hearts LLC,22,1,4,0
+274,Valeant Pharmaceuticals North America,21,2,2,0
+566,rolland srl,21,9,1,0
+334,Laboratoires DECLEOR,21,8,8,0
+1157,SERYSI USA INC,21,17,2,0
+1048,Yes To Inc.,21,7,1,0
+806,Rite Aid Corporation,21,17,1,0
+1282,INGLOT USA LLC,20,4,2,0
+915,Dongguan Changping Mei Ya Cosmetics Factory,20,4,2,0
+880,Dollar Connection Ltd,20,11,2,0
+1088,Hollywood Alliance,20,10,2,0
+752,"Jan Marini Skin Research, Inc.",20,6,6,11
+522,Delon Laboratories (1990) Inc,20,1,1,0
+1069,"eos Products, LLC",20,13,4,3
+1206,ACQUA DI PARMA,19,13,3,0
+1077,M.T. MOCARA GmbH,19,6,2,0
+89,Regis Corporation,19,11,4,0
+716,Added Extras LLC,18,3,1,0
+229,Kao Germany GmbH,18,9,1,6
+950,I Love Cosmetics Limited,18,5,1,0
+567,Zohar Cosmetics (M.F.O.) Ltd.,18,10,1,0
+357,"Crabtree & Evelyn, Ltd",18,17,2,9
+675,McKesson Medical-Surgical,18,5,2,0
+554,Custom Amenities Inc.,18,7,1,0
+842,"Betco Corporation, Ltd",18,1,2,0
+773,I Love Cosmetics Limited,18,14,1,0
+1256,eSalon.com LLC,18,8,1,0
+602,boom creative development llc,17,7,2,9
+1084,Labo International srl,17,6,2,0
+239,SUPRE,17,6,1,0
+1316,Ultraceuticals Pty Ltd,17,3,5,1
+256,Earth Essentials,17,16,3,0
+620,Fragrances of Ireland Ltd.,17,5,5,2
+460,Framesi-North America,17,9,2,0
+593,Lise Watier Cosm�tiques Inc.,17,15,4,5
+446,Ligi Import Corp.,17,9,2,0
+1271,"Aloe Vera of America, Inc.",16,5,6,0
+757,Regis Corporation,16,9,1,0
+646,SOTHYS USA INC,16,4,2,0
+939,Laboratoires Dr N.G PAYOT,15,3,3,0
+1005,Aesop USA Inc.,15,15,1,0
+703,Good 'N Natural,15,1,8,4
+783,Alberto Culver,15,7,4,0
+421,"Central Solutions, Inc.",15,15,2,4
+340,"Energizer Personal Care, LLC",15,5,2,0
+515,"DERMAQUEST, INC.",15,4,6,0
+1125,Michel Design Works,14,8,2,1
+712,Home Health,14,6,3,4
+237,DARPHIN LLC,14,2,1,0
+550,Neoteric Cosmetics Inc,14,2,6,2
+674,"Country Life, LLC",14,3,2,0
+819,"Enchante Accessories, Inc.",14,7,3,0
+1306,Pfizer Consumer Healthcare,14,4,1,0
+1229,DBA SAS,14,7,1,0
+1336,"Revision, LLC",13,7,3,0
+1188,BULGARI GLOBAL OPERATIONS SA,13,3,1,0
+418,Swanson Health Products,13,2,2,0
+1101,Reforma Group,13,6,2,0
+1388,Cosmopharm Ltd.,13,3,8,0
+986,"Express, LLC",13,9,1,0
+1274,Sunflower Distributing,12,8,1,0
+568,"Scruples Professional Salon Products, Inc.",12,3,1,0
+218,"Kimberly-Clark Global Sales, LLC",12,10,1,8
+202,Pure & Basic Products,12,8,3,7
+1009,"Enchante Accessories, Inc.",12,7,1,0
+507,laboratoire Sintyl SA,12,11,1,0
+536,California Baby,12,4,1,4
+867,Unite Eurotherapy,12,8,5,1
+386,Pro-Link Inc,11,10,2,3
+219,Perron Rigot,11,11,1,0
+618,ZACH'S WAX,11,5,3,0
+601,LCA - Laboratori di Chimica Applicata srl,11,6,2,0
+393,WAXIE Sanitary Supply,11,11,2,5
+558,Interparfums Inc.,11,6,1,0
+586,"Trade West, Inc.",11,8,1,0
+456,"Tropical Seas, Inc.",11,8,1,0
+913,Ninghai Jixiang stationery Factory,10,7,1,0
+461,"Kingman Industries, Inc",10,10,2,0
+872,"TAIZHOU XINZHIXUAN DAILY-USE CO.,LTD",10,7,2,6
+541,New Directions Aromatics Inc.,10,1,1,4
+1280,Taste Beauty LLC,10,1,1,0
+800,Kmart Corporation,10,7,1,0
+820,Champneys Henlow Limited,10,6,2,7
+1310,Market Ready,10,5,1,0
+861,Yiwu Aris Cosmetic Manufactory,10,4,2,0
+384,The Home Depot,10,10,2,2
+475,Apollo Health and Beauty Care,10,7,1,0
+312,"I.C.O.N. Line, Inc.",10,9,4,0
+744,Ziba Beauty,10,9,1,0
+1233,"GIB, LLC",9,9,2,2
+308,JAFRA COSMETICS INTERNATIONAL,9,3,1,0
+577,Jean Philippe Fragrances Inc,9,3,1,0
+1317,"G.O Holdings, Inc.",9,1,6,0
+839,GDCP International Ltd,9,1,1,0
+802,"Topco Associates, LLC",9,5,1,0
+1119,Trader Joe's Company,9,5,5,5
+811,The Kroger Co.,8,7,2,0
+1096,Malin & Goetz,8,5,2,0
+838,"Rexall, Inc.",8,1,2,8
+101,"Colomer U.S.A., Inc.",8,3,1,0
+186,Hillyard Industries,8,5,1,8
+978,The Mentholatum Company,8,4,2,0
+956,"Guthy-Renker, LLC",8,7,3,0
+242,Key Brands International Ltd.,8,5,3,1
+259,Primorance,8,8,1,0
+209,AFFLINK,8,2,2,8
+705,Nature's Bounty,8,2,3,4
+116,Regis Corporation,8,7,1,0
+512,Cosswiss AG,8,1,2,0
+457,Pinnacle Cosmetics,8,5,2,0
+1183,FMK Labs,8,2,1,0
+645,"Avlon Industries, Inc.",8,6,3,8
+540,ANTONIO PUIG S.A.,8,6,1,0
+33,"Entity Beauty, Inc.",8,1,2,0
+563,Selected Chemical Products Company,8,6,2,0
+826,Athena Cosmetics,7,5,3,5
+1321,"Giovanni Cosmetics, Inc.",7,2,1,0
+1334,Pacha Soap Co.,7,1,2,0
+1352,"SanMedica International, LLC",7,3,2,1
+505,"Garcoa Laboratories, Inc.",7,5,3,0
+504,Archipelago Inc.,7,1,4,0
+625,"Beauty Treats International Co., Inc.",7,6,1,4
+1226,"JINHUA B&F COSMETICS CO., LTD.",7,5,3,0
+263,Sexy Hair,7,5,3,0
+654,Parfums Nina Ricci,7,1,1,0
+265,Davines S.p.A.,7,4,1,0
+985,High Ridge Brands,7,3,1,0
+12,"USANA Health Sciences, Inc.",7,1,2,0
+1164,"Perfect Angel Cosmetics & Health Co., Limited",7,6,2,0
+1178,Apollo Health and Beauty Care Inc.,7,1,1,0
+350,ANC SPA INC,7,1,2,0
+1199,Borboleta Beauty,7,4,2,0
+899,The Procter & Gamble Company,7,4,1,0
+160,"Signatry, Inc.",7,6,1,6
+1273,"Whisk Products, Inc",7,3,1,0
+804,Supervalu Inc.,6,3,1,0
+787,Kate Somerville Skin Care,6,6,2,0
+611,The Sanctuary Spa Holdings Ltd,6,2,2,0
+658,"Scherer, Inc.",6,5,1,0
+942,"Novelty, Inc.",6,1,1,0
+492,ITALIAN GROUP SRL,6,4,3,0
+588,ProStrong Inc.,6,1,3,0
+583,"Pharmaceutical Specialties, Inc.",6,3,1,5
+584,"Parfums de Coeur, Ltd.",6,4,2,0
+585,"Kenra Professional, LLC",6,3,3,1
+560,Pettenon Cosmetici srl,6,5,3,0
+622,"The Village Company, LLC",6,2,1,0
+481,L&S Cosmetics & Toiletries (M) Sdn Bhd,6,3,4,0
+313,SRC,6,5,1,4
+388,Prime Source LLC,6,5,1,3
+464,University Medical Pharmaceuticals Corp,6,4,3,0
+1056,Sexy Hair Concepts,6,6,3,2
+528,Dr. Nona International LTD,6,1,2,0
+508,"Sun & Skin Care Research, Inc",6,1,1,0
+1169,"Trademark Cosmetics, Inc.",6,2,1,0
+222,Unite Eurotherapy,6,3,1,1
+277,Coria Laboritories,6,2,2,0
+287,Sonya Dakar Skin Care,6,3,1,0
+1236,Farmaceutici dott. Ciccarelli SpA,6,1,1,0
+254,Kevin Murphy,6,4,1,0
+525,"Nature's Sunshine Products, Inc.",5,1,1,0
+922,"Calibre Beaut�, a division of Quadrant Cosmetics Corp.",5,2,1,0
+640,"Private Brand, Consumer Products, Division of McKesson",5,4,1,5
+488,Eng Kah Enterprise Sdn Bhd,5,3,2,0
+676,"Unisource Worldwide, Inc",5,2,1,4
+720,IPD Inc,5,4,2,0
+711,Herbal Authority,5,2,3,0
+879,The BrowGal,5,1,1,0
+667,Elysee Cosmetics,5,5,1,0
+633,"Concept Laboratories, Inc.",5,4,3,0
+526,MORRIS PROFUMI SPA,5,2,3,1
+369,KINGS AND QUEENS LTD,5,5,1,0
+145,Bremenn Research Labs,5,3,1,0
+417,IBS BEAUTY INC,5,4,2,0
+327,Nail Magic LLC,5,2,4,0
+368,"Watkins, Inc",5,5,1,0
+264,Jurlique International Pty. Ltd.,5,5,1,2
+268,PARFUMS GIVENCHY S.A.,5,4,2,0
+1266,"Bielle Cosmetics, Inc",5,3,2,5
+1268,Hayashi Worldwide,5,2,2,0
+211,Edward Don & Company,5,4,1,5
+1239,"Live Flickable, LLC",5,1,1,0
+216,Mannatech Incorporated,5,3,2,0
+167,Excelon,5,3,1,5
+20,"Obagi Medical Products, Inc.",5,3,1,0
+671,FRAGRANCE AND SKINCARE,4,2,1,0
+579,"Rowpar Pharmaceuticals, Inc",4,4,3,0
+715,PhysioLogics,4,3,2,4
+172,Combe Incorporated,4,4,1,0
+31,"Aloecare International, LLC",4,1,1,0
+1390,"Guangzhou Baiyun Darong Fine Chemical Industry Co.,Ltd.",4,4,1,0
+196,Origins Natural Resources Inc.,4,2,1,0
+1228,"ALBION COSMETICS (America), Inc.",4,3,1,0
+342,CALIFORNIA NORTH,4,1,3,0
+271,Ojon Corporationa,4,3,1,0
+282,Corporate Express,4,4,1,4
+275,"Diversey, Inc",4,4,1,4
+304,Expanscience Laboratoires,4,3,2,1
+1115,Person & Covey,4,2,1,0
+463,"Benev Company, Inc.",4,4,1,0
+1094,We are Luxe Ltd.,4,4,1,0
+478,AG PROFESSIONAL HAIR CARE PRODUCTS LTD,4,1,1,0
+1015,Upper Canada Soap & Candle Makers Corp.,4,1,1,0
+1073,ALPHAEON Corporation,4,3,1,0
+420,"E. Excel, LLC",4,4,3,0
+659,"GO SMiLE, Inc.",4,3,1,0
+825,"American Consumer Products, LLC",4,4,3,0
+868,Core Brands,4,1,1,0
+141,Astara Skin Care,4,3,2,0
+738,"LT White, Inc.",4,1,1,0
+697,The Kroger Co.,4,2,2,0
+704,Natural Wealth,4,3,1,0
+694,"New Spirit Naturals, Inc.",4,3,1,0
+1144,PPP&C Inc.,4,3,2,0
+1129,Drunk Elephant LLC,4,2,1,0
+317,Nutrimetics Australia Pty Limited,4,4,2,0
+450,CALI CHEM INC,4,4,2,0
+1017,label.m USA INC,4,3,1,0
+251,"PSS World Medical, Inc",4,4,1,4
+270,Jo Malone Inc.,4,4,1,0
+849,Look Beauty Products,4,2,1,0
+138,"Klein-Becker USA, LLC.",4,3,1,2
+637,"B & C PRODUCTS, INC.",4,4,2,0
+756,Montagne Jeunesse,4,3,1,0
+1292,Pharmco Laboratories,4,1,2,0
+129,"NOEVIR CO., LTD",4,2,2,1
+652,Paco Rabanne Parfums,4,1,1,0
+72,Romane Fragrances,3,1,1,1
+881,California Mango,3,3,3,0
+678,"Science of Skincare, LLC",3,3,1,0
+709,Rexall-Sundown,3,1,1,0
+1012,Frank Body,3,2,1,0
+597,"Advanced Aesthetics, Inc.",3,1,1,0
+592,"Bio-Derm Laboratories, Inc.",3,3,2,0
+713,Perfectly Pure,3,1,1,0
+708,Radiance,3,1,1,3
+910,"Zhejiang Yiwu Lucy Cosmetics Co.,Ltd.",3,2,1,0
+494,"CCS, Clean Chemical Sweden AB",3,3,1,0
+497,Dr. Babor GmbH & Co. KG,3,1,1,0
+150,"Giovanni Cosmetics, Inc.",3,2,1,0
+280,Triple S,3,1,1,1
+1246,"MTG Co., Ltd.",3,2,1,0
+1107,"SD Biotechnologies USA, Inc.",3,2,2,0
+427,Iredale Mineral Cosmetics,3,2,1,0
+1136,Herbswork CC,3,1,1,0
+470,BABOR Cosmetics America Corp,3,2,1,0
+111,Mazunte LLC,3,3,1,0
+1339,Beach House Group,3,1,1,0
+1342,Herbswork CC,3,1,1,0
+840,"Pharmaceutical Specialties, Inc.",3,1,1,0
+390,"W. W. Grainger, Inc.,",3,3,2,1
+1064,Tweezerman International LLC,3,1,1,0
+1071,Soma,3,3,1,0
+178,Namaste Laboratories,2,2,2,0
+213,LagasseSweet,2,1,1,2
+1248,MOMOTANI JUNTENKAN LTD.,2,1,1,0
+1255,Dollar Shave Club,2,1,1,0
+272,Le Groupe Fruits & Passion Inc.,2,2,1,0
+1082,Brodie & Stone,2,1,1,0
+547,Ca-botana International,2,1,2,0
+1063,Luxury Brand Partners,2,1,2,0
+1055,The Himalaya Drug Company,2,1,1,0
+1217,Hello Body GmbH,2,1,1,0
+199,Tressa Inc.,2,2,1,0
+261,Beautopia LLC,2,2,2,0
+893,R AND T CREATION LTD,2,2,1,0
+1338,"H2O Plus, LLC",2,1,1,0
+816,"NEOCUTIS, Inc",2,2,1,1
+844,American Consumer Products,2,2,1,0
+1347,"IT Girl Beauty, LLC",2,1,2,0
+896,"NYX Los Angeles, Inc.",2,1,1,0
+955,Amway Corporation,2,2,2,0
+945,"Yantai Dupont Daily Necessities Co., Ltd.",2,2,1,0
+627,"Continental Fragrances, Ltd.",2,2,1,2
+815,"CAMEO TRADING CO., INC.",2,1,1,0
+97,Whiter Image,2,1,2,0
+1335,The Nature's Bounty Company,2,1,1,0
+142,Voss Laboratories,2,2,1,0
+474,E.T. Browne Drug Co. Inc.,2,1,2,0
+1106,Saje Natural Business Inc.,2,1,2,0
+1187,"Perfect Angel Cosmetics & Health CO., Limited",2,2,2,0
+1209,The Honest Company,2,2,1,0
+531,New Fragrance Continental Inc.,2,1,1,0
+728,PBH Marketing Inc.,2,1,1,1
+682,"ZEE Medical, Inc",2,1,1,0
+310,KMC EXIM CORPORATION/DASHING DIVA FRANCHISE CORP,2,2,1,0
+876,"Hangzhou Beja Commodity Co., Ltd",2,2,1,0
+1296,"Ningbo Rejoice I/E Co., Ltd.",1,1,1,0
+1328,House of Cheatham,1,1,1,1
+765,Izar Sarl,1,1,1,0
+779,Natural Solter S.L.,1,1,1,0
+781,Hada S.A.,1,1,1,0
+754,"A. P. Deauville, LLC",1,1,1,0
+829,"Prima-Derm, S.L.",1,1,1,0
+70,"Tahitian Noni International, Inc.",1,1,1,0
+119,No Lift Nails Inc.,1,1,1,0
+121,Cool Cuts 4 Kids,1,1,1,0
+1289,InstaNatural LLC,1,1,1,0
+501,Goodier Cosmetics Inc,1,1,1,0
+603,Robell Research,1,1,1,0
+559,Smart Brands Inc,1,1,1,1
+984,Interparfums,1,1,1,0
+967,"Modere, Inc.",1,1,1,0
+889,Prai Beauty Group Inc,1,1,1,0
+894,RT Group,1,1,1,0
+906,Test,1,1,1,0
+695,The Tend Skin Company,1,1,1,0
+680,Cypress Medical Products,1,1,1,0
+726,Rapha Racing Ltd.,1,1,1,0
+714,"Herbal Harvest, Inc.",1,1,1,0
+733,"Woosin Cosmetics Co., Ltd",1,1,1,0
+731,"Green Mountain Biotech Co., Ltd",1,1,1,0
+729,"Kaoder Industry Company, Ltd",1,1,1,0
+740,"Wellmade Household & Health Care Co., Ltd",1,1,1,0
+1313,COLBERT+,1,1,1,0
+1023,"Guangzhou Zixuan Beauty Equipment Co.,Ltd",1,1,1,0
+448,Private Label Select LTD,1,1,1,0
+424,KMC Exim,1,1,1,0
+534,Walmart,1,1,1,0
+1044,"Perfect Angel Cosmetics & Health Co., Limited",1,1,1,0
+555,Smith & Vandiver Corporation,1,1,1,0
+449,"Zalan Products, Inc.",1,1,1,0
+406,The Kama Sutra,1,1,1,0
+377,GURWITCH PRODUCTS,1,1,1,0
+382,ProClean Inc.,1,1,1,0
+399,Cardinal Health,1,1,1,1
+453,Beilis Development,1,1,1,0
+452,"Dreambrands, Inc",1,1,1,0
+454,"Trivani International, L.L.C.",1,1,1,0
+465,Urban Decay Cosmetics,1,1,1,0
+315,General Motors,1,1,1,1
+1140,Townley Inc,1,1,1,0
+1117,Fantasia Industries,1,1,1,0
+1133,Cosmetic Dermatology Inc,1,1,1,0
+1113,Imperial Dax Hair Care Inc.,1,1,1,0
+413,ERBAVIVA LLC,1,1,1,0
+416,"Hayashi Tecnica, LLC",1,1,1,0
+1102,"FELPS USA, INC",1,1,1,0
+1196,PLCosmetic,1,1,1,0
+1214,OSEA Malibu,1,1,1,0
+1221,BEST ACCESSORY GROUP,1,1,1,0
+1222,2355644 Ontario Inc.,1,1,1,0
+1212,Townley Inc,1,1,1,0
+1180,"DLC Laboratories, Inc.",1,1,1,0
+1177,Spa de Soleil,1,1,1,0
+355,LES SALONS DU PALAIS ROYAL SHISEIDO,1,1,1,1
+262,PureTek Corporation,1,1,1,0
+1192,"Pearlosophy USA, LLC",1,1,1,0
+1207,HUDA BEAUTY,1,1,1,0
+1202,Wahl Clipper Corp.,1,1,1,0
+190,"Athena Cosmetics, Inc.",1,1,1,0
+233,San Joaquin Supply,1,1,1,1
+231,"Tupperware U.S., Inc.",1,1,1,0
+1261,Ladove Inc,1,1,1,0
+1262,MakingCosmetics Inc.,1,1,1,0
+1263,Carma Laboratories,1,1,1,1
+1254,Combe Incorporated,1,1,1,1
+1270,Shikai Products,1,1,1,0
+45,Parfums Loris Azzaro,1,1,1,0
+1358,"Jiangxi Iris Chemical Co.,Ltd",1,1,1,0
+1276,Duri Cosmetics Inc,1,1,1,0
+1391,Turquise Global LLC,1,1,1,0

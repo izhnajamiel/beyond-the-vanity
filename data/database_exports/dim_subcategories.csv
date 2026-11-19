@@ -1,0 +1,93 @@
+subcategory_id,subcategory,primary_category_id
+3,Baby Shampoos,1
+4,Baby Skin Care,1
+5,Other Baby Products,1
+7,Bath Additives,6
+9,Bubble and Foam Bath Products,6
+11,Other Bath Products,6
+13,Cologne,12
+14,Perfumes/Eaux de Parfum,12
+16,Toilet Water/Eaux de Toilette,12
+17,Other Fragrances,12
+20,Hair Conditioners (leave-in),18
+21,Hair Conditioners (rinse-out),18
+25,Hair Shampoos (making a cosmetic claim),18
+26,Hair Styling Products,18
+27,Hair Straighteners,18
+28,Permanent Waves and Wave Sets,18
+31,Other Hair Care Product,18
+33,Hair Conditioners (leave-in),32
+34,Hair Conditioners (rinse-out),32
+35,Hair Dyes and Colors,32
+36,Hair Tints and Rinses (coloring),32
+38,Hair Shampoos (making a cosmetic claim),32
+39,Hair Color Sprays (aerosol),32
+41,Hair Lighteners with Color,32
+42,Hair Bleaches,32
+43,Other Hair Coloring Product,32
+45,Blushes,44
+46,Eyeliner/Eyebrow Pencils,44
+48,Eye Shadow,44
+49,Face Powders,44
+50,Foundations and Bases,44
+51,Lip Balm (making a cosmetic claim),44
+52,Lip Gloss/Shine,44
+53,"Lip Color - Lipsticks, Liners, and Pencils",44
+55,"Paints (e.g. facial, body)",44
+56,Rouges,44
+57,Makeup Fixatives,44
+58,Other Makeup Product,44
+60,Artificial Nails and Related Products,59
+61,Basecoats and Undercoats,59
+62,Cuticle Softeners,59
+63,Nail Creams and Lotions,59
+65,Nail Polish and Enamel,59
+66,Nail Polish and Enamel Removers,59
+67,Other Nail Products,59
+69,Teeth Cleaning Products,68
+71,Mouthwashes and Breath Fresheners,68
+72,Other Oral Hygiene Product,68
+75,Antiperspirants (making a cosmetic claim),74
+77,Douches,74
+78,Feminine Deodorants,74
+79,"Lubricants  (e.g. personal, sexual, massage oil)",74
+80,Underarm Deodorants,74
+81,Other Personal Care Product,74
+83,Aftershave Products,82
+86,Shaving Cream and other Beard Softeners,82
+89,Other Shaving Product,82
+91,Acne Products (making a cosmetic claim),90
+92,Anti-Wrinkle/Anti-Aging Products (making a cosmetic claim),90
+93,Skin Cleansers,90
+94,Depilatories,90
+95,Facial Masks,90
+96,Foot Powders and Sprays,90
+97,Nighttime Skin Care,90
+98,"Powders (excluding aftershave, baby powder, and makeup face powder)",90
+99,Skin Astringent (making a cosmetic claim),90
+100,Skin Bleaching (making a cosmetic claim),90
+101,Skin Fresheners,90
+102,Skin Moisturizers (making a cosmetic claim),90
+103,Skin Toner (making a cosmetic claim),90
+104,Sprays (excluding fragrances),90
+105,Other Skin Care Product,90
+107,Sunscreen (making a cosmetic claim),106
+108,Suntan Enhancers,106
+109,Indoor Tanning Products,106
+110,Other Sun-Related Product,106
+157,Tattoos and Permanent Makeup,111
+158,Baby Wash/Soap,1
+159,Body Washes and Soaps,6
+160,Diaper Rash Treatment,1
+161,Facial Cream,90
+162,Mascara/Eyelash Products,44
+163,Nail Decoration,59
+164,Perfumes - Oils and Lotions,12
+165,Perfumes - Solids and Powders,12
+166,Scrubs and Exfoliants,6
+167,Teeth Whitening Products,68
+168,UV Gel Nail Polish,59
+169,Hair Shampoos with Anti-Dandruff properties,18
+170,Hand Cleansers and Sanitizers,74
+171,Products Related to Hair Coloring,32
+172,Makeup Preparations,44

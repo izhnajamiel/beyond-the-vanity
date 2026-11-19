@@ -1,0 +1,124 @@
+chemical_id,chemical_name,report_record_count,distinct_products,distinct_companies,distinct_cas_numbers
+111,Titanium dioxide,93480,31809,477,8
+103,"Silica, crystalline (airborne particles of respirable size)",2817,1306,41,0
+98,"Retinol/retinyl esters, when in daily dosages in excess of 10,000 IU, or 3,000 retinol equivalents.",2154,1240,48,5
+77,Mica,1919,895,28,1
+25,Butylated hydroxyanisole,1888,808,62,1
+30,Carbon black,1758,758,58,1
+108,Talc,1549,811,25,1
+41,Cocamide diethanolamine,1397,699,126,5
+100,Retinyl palmitate,1181,524,46,8
+119,Vitamin A palmitate,971,390,39,2
+114,Trade Secret,668,239,17,1
+78,"Mineral oils, untreated and mildly treated",518,232,45,1
+116,Triethanolamine,455,260,32,1
+31,"Carbon black (airborne, unbound particles of respirable size)",440,255,29,1
+96,Retinol,270,141,35,1
+39,Cocamide DEA,234,139,27,0
+19,Benzophenone,231,126,12,1
+47,Cosmetic talc,189,112,9,0
+64,Ginkgo biloba extract,188,88,22,1
+54,Estragole,156,111,34,1
+76,Methyleugenol,154,95,25,3
+11,"Aloe vera, whole leaf extract",143,50,15,0
+61,Formaldehyde (gas),142,78,17,1
+40,Cocamide MEA,116,79,12,1
+113,Toluene,103,87,11,1
+112,"Titanium dioxide (airborne, unbound particles of respirable size)",84,50,11,0
+120,beta-Myrcene,83,53,8,1
+44,Coffee,80,58,21,0
+43,Coffea arabica extract,80,50,10,1
+67,Isopropyl alcohol manufacture using strong acids,75,30,2,0
+1,"1,4-Dioxane",71,35,7,1
+5,Acetaldehyde,56,30,8,1
+106,Styrene,53,36,9,1
+29,Caffeine,49,35,11,1
+55,Ethanol in alcoholic beverages,48,25,4,1
+94,Quartz,42,30,8,1
+21,Benzophenone-3,41,28,7,1
+58,Ethylene oxide,40,15,5,1
+37,Coal tars,39,29,6,0
+101,Safrole,38,26,13,1
+90,Progesterone,38,22,16,1
+52,Diethanolamine,35,20,9,1
+68,Lauramide DEA,35,21,5,1
+88,Phenacetin,33,13,3,1
+118,Vitamin A,31,25,9,3
+81,N-Methylpyrrolidone,20,12,6,1
+34,Coal Tar,17,11,4,2
+48,Di-n-butyl phthalate (DBP),17,6,3,1
+102,Selenium sulfide,17,10,4,2
+85,Oil Orange SS,16,2,1,1
+57,Ethylene glycol,16,8,6,1
+80,"N,N-Dimethyl-p-toluidine",15,10,3,1
+46,Coffee extract,13,6,3,0
+15,Avobenzone,13,7,3,1
+91,Propylene glycol mono-t-butyl ether,10,6,5,1
+26,C.I. Acid Red 114,10,7,1,1
+49,Dichloroacetic acid,10,5,3,1
+3,"2,4-Hexadienal (89% trans, trans isomer; 11% cis, trans isomer)",9,7,2,0
+12,Arsenic (inorganic arsenic compounds),9,6,3,0
+109,Talc (powder),9,7,3,0
+95,Quinoline and its strong acid salts,9,7,4,1
+121,o-Phenylenediamine and its salts,9,4,2,2
+70,Lead,9,7,4,1
+122,o-Phenylphenol,8,3,1,1
+110,Talc containing asbestiform fibers,8,8,2,0
+75,Methylene glycol,8,8,2,2
+63,Genistein (purified),8,5,4,1
+50,Dichloromethane (Methylene chloride),8,4,1,1
+9,All-trans retinoic acid,8,5,3,1
+14,Aspirin,8,8,4,1
+32,Carbon-black extracts,8,8,1,0
+99,Retinyl acetate,8,6,4,1
+71,Lead acetate,7,6,3,1
+92,Propylene oxide,7,2,1,1
+93,Pulegone,7,4,3,1
+74,Methyl chloride,7,5,1,1
+35,Coal tar extract,6,4,2,1
+28,Caffeic acid,6,5,3,1
+73,Methanol,6,4,3,1
+45,Coffee bean extract,6,5,2,0
+23,Benzyl chloride,5,2,1,1
+56,Ethyl acrylate,5,5,3,1
+22,Benzophenone-4,5,5,3,1
+89,Polygeenan,5,1,1,1
+83,N-Nitrosodimethylamine,5,2,1,1
+62,Formaldehyde solution,5,5,2,0
+17,Benzene,5,2,1,1
+8,Acrylamide,4,4,4,1
+2,"2,2-Bis(bromomethyl)-1,3-propanediol",4,2,1,1
+24,Bisphenol A (BPA),4,4,1,1
+10,"Aloe vera, non-decolorized whole leaf extract",4,2,2,0
+79,Musk xylene,4,4,1,1
+72,Mercury and mercury compounds,4,3,2,1
+69,Lauramide diethanolamine,3,3,2,1
+115,Trichloroacetic acid,3,2,2,1
+6,"Acetic acid, retinyl ester",3,3,2,1
+36,Coal tar solution,3,3,3,0
+33,Chromium (hexavalent compounds),3,3,1,0
+20,Benzophenone-2,3,3,1,1
+27,Cadmium and cadmium compounds,2,2,1,1
+18,Benzo[a]pyrene,2,2,1,1
+16,Benz[a]anthracene,2,2,1,1
+84,Nickel (Metallic),2,1,1,1
+60,Formaldehyde,2,2,2,1
+66,Hydrous magnesium silicate,2,2,2,0
+65,Goldenseal root powder,2,1,1,0
+86,Permethrin,2,2,1,1
+123,p-Aminodiphenylamine,2,2,1,2
+107,TEA-Lauryl Sulfate,2,2,1,1
+51,Diethanolamides of the fatty acids of coconut oil,1,1,1,0
+42,Cocamide diethanolamine (DEA),1,1,1,0
+38,Cocamide,1,1,1,0
+7,Acetylsalicylic acid,1,1,1,1
+4,2-Propyleneacrolein,1,1,1,0
+13,Arsenic (inorganic oxides),1,1,1,0
+59,Extract of coffee bean,1,1,1,0
+53,Distillates (coal tar),1,1,1,1
+87,Phenacemide,1,1,1,1
+82,N-Nitrosodiethanolamine,1,1,1,1
+104,Sodium Bromate,1,1,1,1
+105,Spironolactone,1,1,1,1
+97,Retinol palmitate,1,1,1,0
+117,Vinyl acetate,1,1,1,1
